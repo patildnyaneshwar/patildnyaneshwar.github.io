@@ -1,1 +1,11 @@
-we
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.app.linking",
+      "sha256_cert_fingerprints":
+      ["A0:7A:1B:2D:BA:8D:CE:10:85:14:37:CE:AD:17:DA:03:10:47:A8:B8:7B:3D:E9:11:AB:D4:8B:AA:81:97:5E:1F"]
+    }
+  }
+]
