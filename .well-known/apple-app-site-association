@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "7NBZATWLZC.com.test.UniversalLink",
-                "paths": [ "*", "/" ]
+                "paths": [ "*" ]
             }
         ]
     }
